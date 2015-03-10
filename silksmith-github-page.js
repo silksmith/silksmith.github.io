@@ -5,5 +5,5 @@ return!0}function Q(a,b,d,e){if(m.acceptData(a)){var f,g,h=m.expando,i=a.nodeTyp
 //# sourceMappingURL=jquery.min.map
 
 //APP
-(function(){var a=new function(){this.a="something with jquery....yey!"};$('<div class="alert alert-success" role="alert"></div>').appendTo("body").text(a.a);})();
+(function(){var a=new function(){this.a="Something with jquery....yey!"};$('<div class="alert alert-success" role="alert"></div>').appendTo("body").text(a.a);})();
 
